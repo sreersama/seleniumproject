@@ -1,3 +1,6 @@
 git branch ---> will give branch name u r on
 git pull origin <branchname> ---> will get code from new branch
 git checkout <branchname> ---> will move to new branch
+
+i am trying to practice git rebase command
+after rebase
